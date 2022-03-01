@@ -6,7 +6,15 @@
         <entry key="..\:/Users/aadhi/AndroidStudioProjects/TicTacForBackup/app/src/main/res/font/.xml" value="0.284375" />
         <entry key="..\:/Users/aadhi/AndroidStudioProjects/TicTacForBackup/app/src/main/res/font/arbutus.xml" value="0.284375" />
         <entry key="..\:/Users/aadhi/AndroidStudioProjects/TicTacForBackup/app/src/main/res/font/fonts.xml" value="0.284375" />
-        <entry key="..\:/Users/aadhi/AndroidStudioProjects/TicTacForBackup/app/src/main/res/layout/activity_about_us.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/aadhi/AndroidStudioProjects/TicTacForBackup/app/src/main/res/layout-anydpi/activity_game.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/aadhi/AndroidStudioProjects/TicTacForBackup/app/src/main/res/layout-hdpi/activity_game.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/aadhi/AndroidStudioProjects/TicTacForBackup/app/src/main/res/layout-ldpi/activity_game.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/aadhi/AndroidStudioProjects/TicTacForBackup/app/src/main/res/layout-mdpi/activity_game.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/aadhi/AndroidStudioProjects/TicTacForBackup/app/src/main/res/layout-nodpi/activity_game.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/aadhi/AndroidStudioProjects/TicTacForBackup/app/src/main/res/layout-xhdpi/activity_game.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/aadhi/AndroidStudioProjects/TicTacForBackup/app/src/main/res/layout-xxhdpi/activity_game.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/aadhi/AndroidStudioProjects/TicTacForBackup/app/src/main/res/layout-xxxhdpi/activity_game.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/aadhi/AndroidStudioProjects/TicTacForBackup/app/src/main/res/layout/activity_about_us.xml" value="0.264" />
         <entry key="..\:/Users/aadhi/AndroidStudioProjects/TicTacForBackup/app/src/main/res/layout/activity_game.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/aadhi/AndroidStudioProjects/TicTacForBackup/app/src/main/res/layout/activity_home.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/aadhi/AndroidStudioProjects/TicTacForBackup/app/src/main/res/layout/activity_main.xml" value="0.264" />

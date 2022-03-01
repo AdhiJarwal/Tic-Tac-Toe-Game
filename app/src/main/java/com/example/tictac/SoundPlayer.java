@@ -19,13 +19,11 @@ public class SoundPlayer {
 
     public void playWinSound()
     {
-       // System.out.println("@@@ Success");
         soundPool.play(winSound,1.0f,1.0f,1,0,1.0f);
     }
 
     public void playlossSound()
     {
-        //System.out.println("@@@ Success");
         soundPool.play(lossSound,1.0f,1.0f,1,0,1.0f);
     }
 }

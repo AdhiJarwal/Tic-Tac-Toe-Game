@@ -18,6 +18,9 @@ public class MainActivity extends AppCompatActivity
     Random random = new Random();
     int activeplayer = random.nextInt(2);
 
+    boolean win = false;
+
+
     // gameActive = true means game is not over yet and both player can choose any spot to mark
     boolean gameActive = true;
     private SoundPlayer sound;
@@ -242,6 +245,7 @@ public class MainActivity extends AppCompatActivity
 //                    }
 
                         TextView winnerMessage = (TextView) findViewById(R.id.winnerMessage);
+                        win = true;
                         winnerMessage.setText(winner + " won the Game");
 
                         //this will display the the replay button
@@ -271,7 +275,7 @@ public class MainActivity extends AppCompatActivity
                         }
                     }
 
-                    if (gameIsover==true)
+                    if (gameIsover==true && win==false)
                     {
                         TextView winnerMessage = (TextView) findViewById(R.id.winnerMessage);
                         //winnerMessage.setText("Draw !!!");
