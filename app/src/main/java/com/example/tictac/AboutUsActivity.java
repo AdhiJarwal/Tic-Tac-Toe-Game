@@ -39,6 +39,7 @@ public class AboutUsActivity extends AppCompatActivity {
                 Intent intent = new Intent(AboutUsActivity.this,GameActivity.class);
                 startActivity(intent);
                 //AboutUsActivity.this.finish();
+                //..........................................
             }
         });
 
